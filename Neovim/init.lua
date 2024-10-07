@@ -1,2 +1,4 @@
-require("josean.core")
-require("josean.lazy")
+-- ~/.config/nvim/init.lua
+require("core")
+require("lazy_setup")
+
